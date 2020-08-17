@@ -1,0 +1,45 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "servers_test01_name": {
+            "value": null
+        },
+        "sites_mywebapplication01_name": {
+            "value": null
+        },
+        "serverfarms_ASP_Test_b887_name": {
+            "value": null
+        },
+        "sites_my_function_app_name_name": {
+            "value": null
+        },
+        "components_myfirstappinsights_name": {
+            "value": null
+        },
+        "storageAccounts_productdetails_name": {
+            "value": null
+        },
+        "components_my_function_app_name_name": {
+            "value": null
+        },
+        "storageAccounts_productphotosstorage_name": {
+            "value": null
+        },
+        "serverfarms_ServicePlancf26c088_9961_4c27_name": {
+            "value": null
+        },
+        "storageAccounts_storageaccounttestb0a5_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___myfirstappinsights_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___my_function_app_name_name": {
+            "value": null
+        }
+    }
+}
